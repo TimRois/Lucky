@@ -1,0 +1,48 @@
+﻿@{
+    ViewBag.Title = "Авторизация";
+}
+
+<link href="~/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+<link href="~/css/style.css" rel="stylesheet" type="text/css">
+@model Lucky.Date.Models.Account.LoginModel
+
+
+<div class="block">
+    <div class="block2">
+        <h2>Вход</h2>
+
+
+        <form asp-action="Login" asp-controller="Account">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div id="log" class="form-group">
+                <label asp-for="Login">Введите логин</label>
+                <input asp-for="Login" class="form-control" />
+                <span asp-validation-for="Login" class="text-danger"></span>
+            </div>
+            <div id="log" class="form-group">
+                <label asp-for="Password">Введите пароль</label>
+                <input width="250" asp-for="Password" class="form-control" />
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+            <input type="submit" value="Вход" class="btn btn-outline-success" />
+        </form>
+        <a asp-action="Register" asp-controller="Account">Регистрация</a>
+    </div>
+</div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

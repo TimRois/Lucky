@@ -1,0 +1,713 @@
+E:\Shop\Shop\obj\Debug\netcoreapp3.1\Lucky.csproj.AssemblyReference.cache
+E:\Shop\Shop\obj\Debug\netcoreapp3.1\Lucky.GeneratedMSBuildEditorConfig.editorconfig
+E:\Shop\Shop\obj\Debug\netcoreapp3.1\Lucky.AssemblyInfoInputs.cache
+E:\Shop\Shop\obj\Debug\netcoreapp3.1\Lucky.AssemblyInfo.cs
+E:\Shop\Shop\obj\Debug\netcoreapp3.1\Lucky.csproj.CoreCompileInputs.cache
+E:\Shop\Shop\obj\Debug\netcoreapp3.1\Lucky.MvcApplicationPartsAssemblyInfo.cache
+E:\Shop\Shop\obj\Debug\netcoreapp3.1\Lucky.RazorAssemblyInfo.cache
+E:\Shop\Shop\obj\Debug\netcoreapp3.1\Lucky.RazorAssemblyInfo.cs
+E:\Shop\Shop\obj\Debug\netcoreapp3.1\staticwebassets\Lucky.StaticWebAssets.Manifest.cache
+E:\Shop\Shop\obj\Debug\netcoreapp3.1\staticwebassets\Lucky.StaticWebAssets.xml
+E:\Shop\Shop\obj\Debug\netcoreapp3.1\scopedcss\bundle\Lucky.styles.css
+E:\Shop\Shop\obj\Debug\netcoreapp3.1\Lucky.TagHelpers.input.cache
+E:\Shop\Shop\obj\Debug\netcoreapp3.1\Lucky.TagHelpers.output.cache
+E:\Shop\Shop\obj\Debug\netcoreapp3.1\Lucky.RazorCoreGenerate.cache
+E:\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\CRUD\create.cshtml.g.cs
+E:\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\CRUD\Delete.cshtml.g.cs
+E:\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\CRUD\Error.cshtml.g.cs
+E:\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\CRUD\Read.cshtml.g.cs
+E:\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\CRUD\Update.cshtml.g.cs
+E:\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\CRUD_ORDER\create.cshtml.g.cs
+E:\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\CRUD_ORDER\Delete.cshtml.g.cs
+E:\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\CRUD_ORDER\Error.cshtml.g.cs
+E:\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\CRUD_ORDER\Read.cshtml.g.cs
+E:\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\CRUD_ORDER\Update.cshtml.g.cs
+E:\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Order\checkout.cshtml.g.cs
+E:\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Order\Complete.cshtml.g.cs
+E:\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\PetCart\Index.cshtml.g.cs
+E:\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Pets\List.cshtml.g.cs
+E:\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Search\Index.cshtml.g.cs
+E:\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\AllPets.cshtml.g.cs
+E:\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Pet.cshtml.g.cs
+E:\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\ShopCart\Index.cshtml.g.cs
+E:\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Shop\Shop\obj\Debug\netcoreapp3.1\Lucky.RazorTargetAssemblyInfo.cache
+E:\Shop\Shop\obj\Debug\netcoreapp3.1\Lucky.RazorTargetAssemblyInfo.cs
+E:\Shop\Shop\obj\Debug\netcoreapp3.1\Lucky.dll
+E:\Shop\Shop\obj\Debug\netcoreapp3.1\Lucky.pdb
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\dbsettings.json
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\Lucky.exe
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\Lucky.deps.json
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\Lucky.runtimeconfig.json
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\Lucky.runtimeconfig.dev.json
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\Lucky.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\Lucky.pdb
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\Lucky.Views.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\Lucky.Views.pdb
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\Humanizer.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\Json.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\System.Web.Mvc.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\System.Web.Razor.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\System.Web.Helpers.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\System.Web.WebPages.Deployment.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\System.Web.WebPages.Razor.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\System.Web.WebPages.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Shop\Shop\obj\Debug\netcoreapp3.1\Lucky.Views.pdb
+E:\Shop\Shop\obj\Debug\netcoreapp3.1\Lucky.csproj.CopyComplete
+E:\Shop\Shop\obj\Debug\netcoreapp3.1\Lucky.genruntimeconfig.cache
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\appsettings.json
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\dbsettings.json
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\Lucky.exe
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\Lucky.deps.json
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\Lucky.runtimeconfig.json
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\Lucky.runtimeconfig.dev.json
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\Lucky.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\Lucky.pdb
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\Lucky.Views.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\Lucky.Views.pdb
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\Humanizer.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\Json.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\System.Web.Mvc.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\System.Web.Razor.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\System.Web.Helpers.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\System.Web.WebPages.Deployment.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\System.Web.WebPages.Razor.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\System.Web.WebPages.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\obj\Debug\netcoreapp3.1\Lucky.csproj.AssemblyReference.cache
+E:\учеба\вышка\3 KYRS\Lucky\Shop\obj\Debug\netcoreapp3.1\Lucky.GeneratedMSBuildEditorConfig.editorconfig
+E:\учеба\вышка\3 KYRS\Lucky\Shop\obj\Debug\netcoreapp3.1\Lucky.AssemblyInfoInputs.cache
+E:\учеба\вышка\3 KYRS\Lucky\Shop\obj\Debug\netcoreapp3.1\Lucky.AssemblyInfo.cs
+E:\учеба\вышка\3 KYRS\Lucky\Shop\obj\Debug\netcoreapp3.1\Lucky.csproj.CoreCompileInputs.cache
+E:\учеба\вышка\3 KYRS\Lucky\Shop\obj\Debug\netcoreapp3.1\Lucky.MvcApplicationPartsAssemblyInfo.cache
+E:\учеба\вышка\3 KYRS\Lucky\Shop\obj\Debug\netcoreapp3.1\Lucky.RazorAssemblyInfo.cache
+E:\учеба\вышка\3 KYRS\Lucky\Shop\obj\Debug\netcoreapp3.1\Lucky.RazorAssemblyInfo.cs
+E:\учеба\вышка\3 KYRS\Lucky\Shop\obj\Debug\netcoreapp3.1\staticwebassets\Lucky.StaticWebAssets.Manifest.cache
+E:\учеба\вышка\3 KYRS\Lucky\Shop\obj\Debug\netcoreapp3.1\staticwebassets\Lucky.StaticWebAssets.xml
+E:\учеба\вышка\3 KYRS\Lucky\Shop\obj\Debug\netcoreapp3.1\scopedcss\bundle\Lucky.styles.css
+E:\учеба\вышка\3 KYRS\Lucky\Shop\obj\Debug\netcoreapp3.1\Lucky.TagHelpers.input.cache
+E:\учеба\вышка\3 KYRS\Lucky\Shop\obj\Debug\netcoreapp3.1\Lucky.TagHelpers.output.cache
+E:\учеба\вышка\3 KYRS\Lucky\Shop\obj\Debug\netcoreapp3.1\Lucky.RazorCoreGenerate.cache
+E:\учеба\вышка\3 KYRS\Lucky\Shop\obj\Debug\netcoreapp3.1\Razor\Views\CRUD\create.cshtml.g.cs
+E:\учеба\вышка\3 KYRS\Lucky\Shop\obj\Debug\netcoreapp3.1\Razor\Views\CRUD\Delete.cshtml.g.cs
+E:\учеба\вышка\3 KYRS\Lucky\Shop\obj\Debug\netcoreapp3.1\Razor\Views\CRUD\Error.cshtml.g.cs
+E:\учеба\вышка\3 KYRS\Lucky\Shop\obj\Debug\netcoreapp3.1\Razor\Views\CRUD\Read.cshtml.g.cs
+E:\учеба\вышка\3 KYRS\Lucky\Shop\obj\Debug\netcoreapp3.1\Razor\Views\CRUD\Update.cshtml.g.cs
+E:\учеба\вышка\3 KYRS\Lucky\Shop\obj\Debug\netcoreapp3.1\Razor\Views\CRUD_ORDER\create.cshtml.g.cs
+E:\учеба\вышка\3 KYRS\Lucky\Shop\obj\Debug\netcoreapp3.1\Razor\Views\CRUD_ORDER\Delete.cshtml.g.cs
+E:\учеба\вышка\3 KYRS\Lucky\Shop\obj\Debug\netcoreapp3.1\Razor\Views\CRUD_ORDER\Error.cshtml.g.cs
+E:\учеба\вышка\3 KYRS\Lucky\Shop\obj\Debug\netcoreapp3.1\Razor\Views\CRUD_ORDER\Read.cshtml.g.cs
+E:\учеба\вышка\3 KYRS\Lucky\Shop\obj\Debug\netcoreapp3.1\Razor\Views\CRUD_ORDER\Update.cshtml.g.cs
+E:\учеба\вышка\3 KYRS\Lucky\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\учеба\вышка\3 KYRS\Lucky\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Order\checkout.cshtml.g.cs
+E:\учеба\вышка\3 KYRS\Lucky\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Order\Complete.cshtml.g.cs
+E:\учеба\вышка\3 KYRS\Lucky\Shop\obj\Debug\netcoreapp3.1\Razor\Views\PetCart\Index.cshtml.g.cs
+E:\учеба\вышка\3 KYRS\Lucky\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Pets\List.cshtml.g.cs
+E:\учеба\вышка\3 KYRS\Lucky\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Search\Index.cshtml.g.cs
+E:\учеба\вышка\3 KYRS\Lucky\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\AllPets.cshtml.g.cs
+E:\учеба\вышка\3 KYRS\Lucky\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Pet.cshtml.g.cs
+E:\учеба\вышка\3 KYRS\Lucky\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\учеба\вышка\3 KYRS\Lucky\Shop\obj\Debug\netcoreapp3.1\Razor\Views\ShopCart\Index.cshtml.g.cs
+E:\учеба\вышка\3 KYRS\Lucky\Shop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\учеба\вышка\3 KYRS\Lucky\Shop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\учеба\вышка\3 KYRS\Lucky\Shop\obj\Debug\netcoreapp3.1\Lucky.RazorTargetAssemblyInfo.cache
+E:\учеба\вышка\3 KYRS\Lucky\Shop\obj\Debug\netcoreapp3.1\Lucky.RazorTargetAssemblyInfo.cs
+E:\учеба\вышка\3 KYRS\Lucky\Shop\obj\Debug\netcoreapp3.1\Lucky.Views.pdb
+E:\учеба\вышка\3 KYRS\Lucky\Shop\obj\Debug\netcoreapp3.1\Lucky.csproj.CopyComplete
+E:\учеба\вышка\3 KYRS\Lucky\Shop\obj\Debug\netcoreapp3.1\Lucky.dll
+E:\учеба\вышка\3 KYRS\Lucky\Shop\obj\Debug\netcoreapp3.1\Lucky.pdb
+E:\учеба\вышка\3 KYRS\Lucky\Shop\obj\Debug\netcoreapp3.1\Lucky.genruntimeconfig.cache
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\dbsettings.json
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\Lucky.StaticWebAssets.xml
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\Lucky.exe
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\Lucky.deps.json
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\Lucky.runtimeconfig.json
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\Lucky.runtimeconfig.dev.json
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\Lucky.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\Lucky.pdb
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\Lucky.Views.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\Lucky.Views.pdb
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\Json.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\System.Web.Mvc.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\System.Web.Razor.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\System.Web.Helpers.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\System.Web.WebPages.Deployment.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\System.Web.WebPages.Razor.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\System.Web.WebPages.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Lucky\Shop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Lucky\Shop\obj\Debug\netcoreapp3.1\Lucky.csproj.AssemblyReference.cache
+D:\Lucky\Shop\obj\Debug\netcoreapp3.1\Lucky.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lucky\Shop\obj\Debug\netcoreapp3.1\Lucky.AssemblyInfoInputs.cache
+D:\Lucky\Shop\obj\Debug\netcoreapp3.1\Lucky.AssemblyInfo.cs
+D:\Lucky\Shop\obj\Debug\netcoreapp3.1\Lucky.csproj.CoreCompileInputs.cache
+D:\Lucky\Shop\obj\Debug\netcoreapp3.1\Lucky.MvcApplicationPartsAssemblyInfo.cache
+D:\Lucky\Shop\obj\Debug\netcoreapp3.1\Lucky.RazorAssemblyInfo.cache
+D:\Lucky\Shop\obj\Debug\netcoreapp3.1\Lucky.RazorAssemblyInfo.cs
+D:\Lucky\Shop\obj\Debug\netcoreapp3.1\staticwebassets\Lucky.StaticWebAssets.Manifest.cache
+D:\Lucky\Shop\obj\Debug\netcoreapp3.1\Lucky.TagHelpers.input.cache
+D:\Lucky\Shop\obj\Debug\netcoreapp3.1\Lucky.TagHelpers.output.cache
+D:\Lucky\Shop\obj\Debug\netcoreapp3.1\Lucky.RazorCoreGenerate.cache
+D:\Lucky\Shop\obj\Debug\netcoreapp3.1\Razor\Views\CRUD\create.cshtml.g.cs
+D:\Lucky\Shop\obj\Debug\netcoreapp3.1\Razor\Views\CRUD\Delete.cshtml.g.cs
+D:\Lucky\Shop\obj\Debug\netcoreapp3.1\Razor\Views\CRUD\Error.cshtml.g.cs
+D:\Lucky\Shop\obj\Debug\netcoreapp3.1\Razor\Views\CRUD\Read.cshtml.g.cs
+D:\Lucky\Shop\obj\Debug\netcoreapp3.1\Razor\Views\CRUD\Update.cshtml.g.cs
+D:\Lucky\Shop\obj\Debug\netcoreapp3.1\Razor\Views\CRUD_ORDER\create.cshtml.g.cs
+D:\Lucky\Shop\obj\Debug\netcoreapp3.1\Razor\Views\CRUD_ORDER\Delete.cshtml.g.cs
+D:\Lucky\Shop\obj\Debug\netcoreapp3.1\Razor\Views\CRUD_ORDER\Error.cshtml.g.cs
+D:\Lucky\Shop\obj\Debug\netcoreapp3.1\Razor\Views\CRUD_ORDER\Read.cshtml.g.cs
+D:\Lucky\Shop\obj\Debug\netcoreapp3.1\Razor\Views\CRUD_ORDER\Update.cshtml.g.cs
+D:\Lucky\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Lucky\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Order\checkout.cshtml.g.cs
+D:\Lucky\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Order\Complete.cshtml.g.cs
+D:\Lucky\Shop\obj\Debug\netcoreapp3.1\Razor\Views\PetCart\Index.cshtml.g.cs
+D:\Lucky\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Pets\List.cshtml.g.cs
+D:\Lucky\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Search\Index.cshtml.g.cs
+D:\Lucky\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\AllPets.cshtml.g.cs
+D:\Lucky\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Pet.cshtml.g.cs
+D:\Lucky\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Lucky\Shop\obj\Debug\netcoreapp3.1\Razor\Views\ShopCart\Index.cshtml.g.cs
+D:\Lucky\Shop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Lucky\Shop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Lucky\Shop\obj\Debug\netcoreapp3.1\Lucky.RazorTargetAssemblyInfo.cache
+D:\Lucky\Shop\obj\Debug\netcoreapp3.1\Lucky.RazorTargetAssemblyInfo.cs
+D:\Lucky\Shop\obj\Debug\netcoreapp3.1\Lucky.Views.pdb
+D:\Lucky\Shop\obj\Debug\netcoreapp3.1\Lucky.csproj.CopyComplete
+D:\Lucky\Shop\obj\Debug\netcoreapp3.1\Lucky.dll
+D:\Lucky\Shop\obj\Debug\netcoreapp3.1\Lucky.pdb
+D:\Lucky\Shop\obj\Debug\netcoreapp3.1\Lucky.genruntimeconfig.cache
+D:\Lucky\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+D:\Lucky\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\dbsettings.json
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\Lucky.exe
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\Lucky.deps.json
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\Lucky.runtimeconfig.json
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\Lucky.runtimeconfig.dev.json
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\Lucky.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\Lucky.pdb
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\Lucky.Views.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\Lucky.Views.pdb
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\Humanizer.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\Json.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\System.Web.Mvc.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\System.Web.Razor.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\System.Web.Helpers.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\System.Web.WebPages.Deployment.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\System.Web.WebPages.Razor.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\System.Web.WebPages.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Lucky\Shop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Lucky\Shop\obj\Debug\netcoreapp3.1\Lucky.csproj.AssemblyReference.cache
+E:\Lucky\Shop\obj\Debug\netcoreapp3.1\Lucky.GeneratedMSBuildEditorConfig.editorconfig
+E:\Lucky\Shop\obj\Debug\netcoreapp3.1\Lucky.AssemblyInfoInputs.cache
+E:\Lucky\Shop\obj\Debug\netcoreapp3.1\Lucky.AssemblyInfo.cs
+E:\Lucky\Shop\obj\Debug\netcoreapp3.1\Lucky.csproj.CoreCompileInputs.cache
+E:\Lucky\Shop\obj\Debug\netcoreapp3.1\Lucky.MvcApplicationPartsAssemblyInfo.cache
+E:\Lucky\Shop\obj\Debug\netcoreapp3.1\Lucky.RazorAssemblyInfo.cache
+E:\Lucky\Shop\obj\Debug\netcoreapp3.1\Lucky.RazorAssemblyInfo.cs
+E:\Lucky\Shop\obj\Debug\netcoreapp3.1\staticwebassets\Lucky.StaticWebAssets.Manifest.cache
+E:\Lucky\Shop\obj\Debug\netcoreapp3.1\staticwebassets\Lucky.StaticWebAssets.xml
+E:\Lucky\Shop\obj\Debug\netcoreapp3.1\scopedcss\bundle\Lucky.styles.css
+E:\Lucky\Shop\obj\Debug\netcoreapp3.1\Lucky.TagHelpers.input.cache
+E:\Lucky\Shop\obj\Debug\netcoreapp3.1\Lucky.TagHelpers.output.cache
+E:\Lucky\Shop\obj\Debug\netcoreapp3.1\Lucky.RazorCoreGenerate.cache
+E:\Lucky\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+E:\Lucky\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+E:\Lucky\Shop\obj\Debug\netcoreapp3.1\Razor\Views\CRUD\create.cshtml.g.cs
+E:\Lucky\Shop\obj\Debug\netcoreapp3.1\Razor\Views\CRUD\Delete.cshtml.g.cs
+E:\Lucky\Shop\obj\Debug\netcoreapp3.1\Razor\Views\CRUD\Error.cshtml.g.cs
+E:\Lucky\Shop\obj\Debug\netcoreapp3.1\Razor\Views\CRUD\Read.cshtml.g.cs
+E:\Lucky\Shop\obj\Debug\netcoreapp3.1\Razor\Views\CRUD\Update.cshtml.g.cs
+E:\Lucky\Shop\obj\Debug\netcoreapp3.1\Razor\Views\CRUD_ORDER\create.cshtml.g.cs
+E:\Lucky\Shop\obj\Debug\netcoreapp3.1\Razor\Views\CRUD_ORDER\Delete.cshtml.g.cs
+E:\Lucky\Shop\obj\Debug\netcoreapp3.1\Razor\Views\CRUD_ORDER\Error.cshtml.g.cs
+E:\Lucky\Shop\obj\Debug\netcoreapp3.1\Razor\Views\CRUD_ORDER\Read.cshtml.g.cs
+E:\Lucky\Shop\obj\Debug\netcoreapp3.1\Razor\Views\CRUD_ORDER\Update.cshtml.g.cs
+E:\Lucky\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\Lucky\Shop\obj\Debug\netcoreapp3.1\Razor\Views\PetCart\Index.cshtml.g.cs
+E:\Lucky\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Pets\List.cshtml.g.cs
+E:\Lucky\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Search\Index.cshtml.g.cs
+E:\Lucky\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\AllPets.cshtml.g.cs
+E:\Lucky\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Pet.cshtml.g.cs
+E:\Lucky\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Lucky\Shop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Lucky\Shop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Lucky\Shop\obj\Debug\netcoreapp3.1\Lucky.RazorTargetAssemblyInfo.cache
+E:\Lucky\Shop\obj\Debug\netcoreapp3.1\Lucky.RazorTargetAssemblyInfo.cs
+E:\Lucky\Shop\obj\Debug\netcoreapp3.1\Lucky.Views.pdb
+E:\Lucky\Shop\obj\Debug\netcoreapp3.1\Lucky.csproj.CopyComplete
+E:\Lucky\Shop\obj\Debug\netcoreapp3.1\Lucky.dll
+E:\Lucky\Shop\obj\Debug\netcoreapp3.1\Lucky.pdb
+E:\Lucky\Shop\obj\Debug\netcoreapp3.1\Lucky.genruntimeconfig.cache
+E:\Lucky\Shop\obj\Debug\netcoreapp3.1\Razor\Views\PetCart\Complete.cshtml.g.cs
+E:\Lucky\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\AllNews.cshtml.g.cs
+E:\Lucky\Shop\obj\Debug\netcoreapp3.1\Razor\Views\CRUD_NEWS\create.cshtml.g.cs
+E:\Lucky\Shop\obj\Debug\netcoreapp3.1\Razor\Views\CRUD_NEWS\Delete.cshtml.g.cs
+E:\Lucky\Shop\obj\Debug\netcoreapp3.1\Razor\Views\CRUD_NEWS\Error.cshtml.g.cs
+E:\Lucky\Shop\obj\Debug\netcoreapp3.1\Razor\Views\CRUD_NEWS\Read.cshtml.g.cs
+E:\Lucky\Shop\obj\Debug\netcoreapp3.1\Razor\Views\CRUD_NEWS\Update.cshtml.g.cs
+E:\Lucky\Shop\obj\Debug\netcoreapp3.1\Razor\Views\NewsCart\Index.cshtml.g.cs
+E:\Lucky\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\News.cshtml.g.cs

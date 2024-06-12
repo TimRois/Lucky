@@ -1,0 +1,14 @@
+﻿@model NewsCartViewModel
+
+<h2>Новость</h2>
+<div class="row mt-5 mb-2">
+
+    @{
+        foreach (News news in Model.getNews)
+        {
+
+            @Html.Partial("News", news);
+        }
+
+    }
+</div>

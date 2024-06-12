@@ -1,0 +1,10 @@
+﻿@model Pet;
+
+<div class="col-lg-4">
+    <img class="img-thumbnail" src="@Model.img"  alt="@Model.name">
+    <h2> Имя: @Model.name</h2>
+    <p>Краткое описание: @Model.shortDesc</p>
+    <p>Есть ли прививки: @Model.vaccinations</p>
+    <p>Порода: @Model.breed</p>
+    <p><a class="btn btn-warning" asp-controller="PetCart" asp-action="create" asp-route-id="@Model.Id">Взять себе</a></p>
+</div>

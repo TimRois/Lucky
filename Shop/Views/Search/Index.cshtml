@@ -1,0 +1,13 @@
+﻿@model SearchViewModel
+
+<h2>Результат поиска</h2>
+<div class="row mt-5 mb-2">
+
+    @{
+        foreach (Pet pet in Model.getPets)
+        {
+            @Html.Partial("AllPets", pet);
+        }
+
+    }
+</div>

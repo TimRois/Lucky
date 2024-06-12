@@ -1,0 +1,49 @@
+﻿h3 {
+    margin-left: 300px;
+
+}
+
+#ppp4 {
+    margin-left: 5px;
+}
+
+#log {
+
+    width:250px;
+    margin-top:0%;
+    margin-bottom:0%;
+
+}
+#ppp3 {
+    margin-left: 40px;
+}
+#ppp {
+    margin-left: 197px;
+}
+#ppp2 {
+    margin-left: 290px;
+}
+#but1 {
+    margin-top: 5%;
+}
+#link1 {
+margin-right: 10%;
+}
+#link2{
+    margin-right: 25%;
+}
+.block {
+    display: flex;
+}
+
+.block2 {
+    margin: auto;
+    width:591px;
+}
+.col-md-4 {
+    margin: auto;
+    
+}
+.form-group {
+    margin-top: 5%;
+}

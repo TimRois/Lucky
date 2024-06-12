@@ -1,0 +1,87 @@
+﻿@model Lucky.Date.Models.Pet
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link href="~/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+    <link href="~/css/style.css" rel="stylesheet" type="text/css">
+    <title>Delete</title>
+</head>
+<body>
+    <div class="block">
+
+        <div class="block2">
+
+
+            <h3 id="ppp3">Вы точно хотите удалить этого питомца ?</h3>
+            <div>
+                <h4 id="ppp2">Питомец</h4>
+                <img id="ppp" class="img-thumbnail" src="@Model.img" width="300" height="300" alt="@Model.name">
+                <hr />
+                <dl class="row">
+                    <dt class="col-sm-2">
+                        Имя питомца:
+                    </dt>
+                    <dd class="col-sm-10">
+                        @Html.DisplayFor(model => model.name)
+                    </dd>
+                    <dt class="col-sm-2">
+                        Короткое описание:
+                    </dt>
+                    <dd class="col-sm-10">
+                        @Html.DisplayFor(model => model.shortDesc)
+                    </dd>
+
+                    <dt class="col-sm-2">
+                        Вакцины:
+                    </dt>
+                    <dd class="col-sm-10">
+                        @Html.DisplayFor(model => model.vaccinations)
+                    </dd>
+
+                    <dt class="col-sm-2">
+                        Порода:
+                    </dt>
+                    <dd class="col-sm-10">
+                        @Html.DisplayFor(model => model.breed)
+                    </dd>
+
+                    <dt class="col-sm-2">
+                        Категория питомца:
+                    </dt>
+                    <dd class="col-sm-10">
+                        @Html.DisplayFor(model => model.categoryID)
+                    </dd>
+                </dl>
+
+                <div id="but1">
+                
+                    <form asp-action="Delete">
+                        <a id="link2" asp-controller="CRUD" asp-action="Read">Назад</a>
+                        <input type="hidden" asp-for="Id" />
+                        <input type="submit" value="Удалить" class="btn btn-danger" />
+                    </form>
+
+
+                </div>
+
+               
+            </div>
+
+
+        </div>
+    </div>
+
+
+
+
+
+       
+</body>
+</html>

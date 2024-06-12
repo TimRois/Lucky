@@ -1,0 +1,682 @@
+C:\Users\User\source\repos\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.AssemblyInfo.cs
+C:\Users\User\source\repos\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.exe
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.deps.json
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.runtimeconfig.json
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.runtimeconfig.dev.json
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.pdb
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\System.Web.Mvc.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\System.Web.Razor.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\System.Web.Helpers.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\System.Web.WebPages.Deployment.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\System.Web.WebPages.Razor.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\System.Web.WebPages.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\source\repos\Shop\Shop\obj\Debug\netcoreapp3.1\staticwebassets\Shop.StaticWebAssets.Manifest.cache
+C:\Users\User\source\repos\Shop\Shop\obj\Debug\netcoreapp3.1\staticwebassets\Shop.StaticWebAssets.xml
+C:\Users\User\source\repos\Shop\Shop\obj\Debug\netcoreapp3.1\scopedcss\bundle\Shop.styles.css
+C:\Users\User\source\repos\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.RazorTargetAssemblyInfo.cache
+C:\Users\User\source\repos\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.csproj.CopyComplete
+C:\Users\User\source\repos\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.dll
+C:\Users\User\source\repos\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.pdb
+C:\Users\User\source\repos\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.genruntimeconfig.cache
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.Views.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.Views.pdb
+C:\Users\User\source\repos\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.RazorAssemblyInfo.cache
+C:\Users\User\source\repos\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.RazorAssemblyInfo.cs
+C:\Users\User\source\repos\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.TagHelpers.input.cache
+C:\Users\User\source\repos\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.TagHelpers.output.cache
+C:\Users\User\source\repos\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.RazorCoreGenerate.cache
+C:\Users\User\source\repos\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.RazorTargetAssemblyInfo.cs
+C:\Users\User\source\repos\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.Views.pdb
+C:\Users\User\source\repos\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Cars\List.cshtml.g.cs
+C:\Users\User\source\repos\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User\source\repos\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\User\source\repos\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\Json.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\dbsettings.json
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\source\repos\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\source\repos\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\AllCars.cshtml.g.cs
+C:\Users\User\source\repos\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\ShopCart\Index.cshtml.g.cs
+C:\Users\User\source\repos\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\User\source\repos\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Order\checkout.cshtml.g.cs
+C:\Users\User\source\repos\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Order\Complete.cshtml.g.cs
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\dbsettings.json
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.exe
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.deps.json
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.runtimeconfig.json
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.runtimeconfig.dev.json
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.pdb
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.Views.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.Views.pdb
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\Humanizer.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\Json.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\System.Web.Mvc.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\System.Web.Razor.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\System.Web.Helpers.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\System.Web.WebPages.Deployment.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\System.Web.WebPages.Razor.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\System.Web.WebPages.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.AssemblyInfoInputs.cache
+E:\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.AssemblyInfo.cs
+E:\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.csproj.CoreCompileInputs.cache
+E:\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.MvcApplicationPartsAssemblyInfo.cache
+E:\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.RazorAssemblyInfo.cache
+E:\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.RazorAssemblyInfo.cs
+E:\Shop\Shop\obj\Debug\netcoreapp3.1\staticwebassets\Shop.StaticWebAssets.Manifest.cache
+E:\Shop\Shop\obj\Debug\netcoreapp3.1\staticwebassets\Shop.StaticWebAssets.xml
+E:\Shop\Shop\obj\Debug\netcoreapp3.1\scopedcss\bundle\Shop.styles.css
+E:\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.TagHelpers.input.cache
+E:\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.TagHelpers.output.cache
+E:\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.RazorCoreGenerate.cache
+E:\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Order\checkout.cshtml.g.cs
+E:\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Order\Complete.cshtml.g.cs
+E:\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\ShopCart\Index.cshtml.g.cs
+E:\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.RazorTargetAssemblyInfo.cache
+E:\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.RazorTargetAssemblyInfo.cs
+E:\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.Views.pdb
+E:\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.csproj.CopyComplete
+E:\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.dll
+E:\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.pdb
+E:\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.genruntimeconfig.cache
+E:\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\CRUD\create.cshtml.g.cs
+E:\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\CRUD\Read.cshtml.g.cs
+E:\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\CRUD\Update.cshtml.g.cs
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\appsettings.json
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\dbsettings.json
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.exe
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.deps.json
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.runtimeconfig.json
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.runtimeconfig.dev.json
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.pdb
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.Views.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.Views.pdb
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\Humanizer.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\Json.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\System.Web.Mvc.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\System.Web.Razor.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\System.Web.Helpers.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\System.Web.WebPages.Deployment.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\System.Web.WebPages.Razor.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\System.Web.WebPages.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\учеба\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\учеба\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.csprojAssemblyReference.cache
+E:\учеба\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.AssemblyInfoInputs.cache
+E:\учеба\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.AssemblyInfo.cs
+E:\учеба\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.csproj.CoreCompileInputs.cache
+E:\учеба\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.MvcApplicationPartsAssemblyInfo.cache
+E:\учеба\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.RazorAssemblyInfo.cache
+E:\учеба\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.RazorAssemblyInfo.cs
+E:\учеба\Shop\Shop\obj\Debug\netcoreapp3.1\staticwebassets\Shop.StaticWebAssets.Manifest.cache
+E:\учеба\Shop\Shop\obj\Debug\netcoreapp3.1\staticwebassets\Shop.StaticWebAssets.xml
+E:\учеба\Shop\Shop\obj\Debug\netcoreapp3.1\scopedcss\bundle\Shop.styles.css
+E:\учеба\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.TagHelpers.input.cache
+E:\учеба\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.TagHelpers.output.cache
+E:\учеба\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.RazorCoreGenerate.cache
+E:\учеба\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Cars\List.cshtml.g.cs
+E:\учеба\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\CRUD\create.cshtml.g.cs
+E:\учеба\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\CRUD\Delete.cshtml.g.cs
+E:\учеба\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\CRUD\Read.cshtml.g.cs
+E:\учеба\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\CRUD\Update.cshtml.g.cs
+E:\учеба\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\учеба\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Order\checkout.cshtml.g.cs
+E:\учеба\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Order\Complete.cshtml.g.cs
+E:\учеба\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\AllCars.cshtml.g.cs
+E:\учеба\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\учеба\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\ShopCart\Index.cshtml.g.cs
+E:\учеба\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\учеба\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\учеба\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.RazorTargetAssemblyInfo.cache
+E:\учеба\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.RazorTargetAssemblyInfo.cs
+E:\учеба\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.Views.pdb
+E:\учеба\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.csproj.CopyComplete
+E:\учеба\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.dll
+E:\учеба\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.pdb
+E:\учеба\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.genruntimeconfig.cache
+E:\учеба\вышка\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.csprojAssemblyReference.cache
+E:\учеба\вышка\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.AssemblyInfoInputs.cache
+E:\учеба\вышка\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.AssemblyInfo.cs
+E:\учеба\вышка\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.csproj.CoreCompileInputs.cache
+E:\учеба\вышка\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.MvcApplicationPartsAssemblyInfo.cache
+E:\учеба\вышка\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.RazorAssemblyInfo.cache
+E:\учеба\вышка\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.RazorAssemblyInfo.cs
+E:\учеба\вышка\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.dll
+E:\учеба\вышка\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.pdb
+E:\учеба\вышка\3 KYRS\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.AssemblyInfoInputs.cache
+E:\учеба\вышка\3 KYRS\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.AssemblyInfo.cs
+E:\учеба\вышка\3 KYRS\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.csproj.CoreCompileInputs.cache
+E:\учеба\вышка\3 KYRS\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.MvcApplicationPartsAssemblyInfo.cache
+E:\учеба\вышка\3 KYRS\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.RazorAssemblyInfo.cache
+E:\учеба\вышка\3 KYRS\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.RazorAssemblyInfo.cs
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\appsettings.json
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\dbsettings.json
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.exe
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.deps.json
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.runtimeconfig.json
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.runtimeconfig.dev.json
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.pdb
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.Views.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.Views.pdb
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\Humanizer.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\Json.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\System.Web.Mvc.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\System.Web.Razor.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\System.Web.Helpers.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\System.Web.WebPages.Deployment.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\System.Web.WebPages.Razor.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\System.Web.WebPages.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\obj\Debug\netcoreapp3.1\staticwebassets\Shop.StaticWebAssets.Manifest.cache
+E:\учеба\вышка\3 KYRS\Shop\Shop\obj\Debug\netcoreapp3.1\staticwebassets\Shop.StaticWebAssets.xml
+E:\учеба\вышка\3 KYRS\Shop\Shop\obj\Debug\netcoreapp3.1\scopedcss\bundle\Shop.styles.css
+E:\учеба\вышка\3 KYRS\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.TagHelpers.input.cache
+E:\учеба\вышка\3 KYRS\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.TagHelpers.output.cache
+E:\учеба\вышка\3 KYRS\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.RazorCoreGenerate.cache
+E:\учеба\вышка\3 KYRS\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Courses\List.cshtml.g.cs
+E:\учеба\вышка\3 KYRS\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\CRUD\create.cshtml.g.cs
+E:\учеба\вышка\3 KYRS\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\CRUD\Delete.cshtml.g.cs
+E:\учеба\вышка\3 KYRS\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\CRUD\Read.cshtml.g.cs
+E:\учеба\вышка\3 KYRS\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\CRUD\Update.cshtml.g.cs
+E:\учеба\вышка\3 KYRS\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\учеба\вышка\3 KYRS\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Order\checkout.cshtml.g.cs
+E:\учеба\вышка\3 KYRS\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Order\Complete.cshtml.g.cs
+E:\учеба\вышка\3 KYRS\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Search\Index.cshtml.g.cs
+E:\учеба\вышка\3 KYRS\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\AllCourses.cshtml.g.cs
+E:\учеба\вышка\3 KYRS\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\учеба\вышка\3 KYRS\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\ShopCart\Index.cshtml.g.cs
+E:\учеба\вышка\3 KYRS\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\учеба\вышка\3 KYRS\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\учеба\вышка\3 KYRS\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.RazorTargetAssemblyInfo.cache
+E:\учеба\вышка\3 KYRS\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.RazorTargetAssemblyInfo.cs
+E:\учеба\вышка\3 KYRS\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.Views.pdb
+E:\учеба\вышка\3 KYRS\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.csproj.CopyComplete
+E:\учеба\вышка\3 KYRS\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.dll
+E:\учеба\вышка\3 KYRS\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.pdb
+E:\учеба\вышка\3 KYRS\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.genruntimeconfig.cache
+E:\учеба\вышка\3 KYRS\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\CRUD\Error.cshtml.g.cs
+E:\учеба\вышка\3 KYRS\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.csproj.AssemblyReference.cache
+E:\учеба\вышка\3 KYRS\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.GeneratedMSBuildEditorConfig.editorconfig
+E:\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.csproj.AssemblyReference.cache
+E:\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.GeneratedMSBuildEditorConfig.editorconfig
+E:\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\CRUD\Error.cshtml.g.cs
+E:\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Search\Index.cshtml.g.cs
+E:\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\AllPets.cshtml.g.cs
+E:\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Pets\List.cshtml.g.cs
+E:\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\PetCart\Index.cshtml.g.cs
+E:\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\CRUD_ORDER\Read.cshtml.g.cs
+E:\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\CRUD_ORDER\create.cshtml.g.cs
+E:\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\CRUD_ORDER\Error.cshtml.g.cs
+E:\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\CRUD_ORDER\Update.cshtml.g.cs
+E:\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Pet.cshtml.g.cs
+E:\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\CRUD\Delete.cshtml.g.cs
+E:\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\CRUD_ORDER\Delete.cshtml.g.cs

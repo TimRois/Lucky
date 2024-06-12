@@ -1,0 +1,15 @@
+﻿@model HomeViewModel
+
+
+<h2>Все новости</h2>
+<div class="row mt-5 mb-2">
+
+    @{
+        foreach (News news in Model.allNews)
+        {
+
+            @Html.Partial("AllNews", news);
+        }
+
+    }
+</div>

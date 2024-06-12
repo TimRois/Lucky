@@ -1,0 +1,129 @@
+﻿@model IEnumerable<Lucky.Date.Models.Pet>
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link href="~/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+    <title>Read</title>
+</head>
+<body>
+
+    <header>
+        <nav class="navbar navbar-expand-md navbar-dark bg-dark">
+            <div class="container-fluid">
+                <a class="navbar-brand">Lucky</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarCollapse">
+                    <ul class="navbar-nav me-auto mb-2 mb-md-0">
+                        <li class="nav-item">
+                            <a class="nav-link" asp-controller="Home" asp-action="Index">Главная</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/Pets/List/category1">Собаки</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/Pets/List/category2">Коты</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link" asp-controller="CRUD_ORDER" asp-action="Read">Работа с обращениями</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-controller="CRUD_NEWS" asp-action="Read">Работа с новостями</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-controller="CRUD" asp-action="Create">Добавление питомцев</a>
+                        </li>
+                        @if (User.Identity.Name != null)
+                        {
+                            <li class="nav-item">
+                                <p class="nav-link"> Логин: @User.Identity.Name</p>
+                            </li>
+                        }
+                        <li class="nav-item">
+                            @if (User.Identity.Name != null)
+                            {
+                                <a asp-controller="Account" asp-action="Lagout" class="header-a">
+                                    <button class="exit-button">
+                                        Выход
+                                    </button>
+                                </a>
+                            }
+                        </li>
+                    </ul>      
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.Id)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.name)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.shortDesc)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.img)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.vaccinations)
+                </th>
+
+                <th>
+                    @Html.DisplayNameFor(model => model.breed)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.categoryID)
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Id)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.shortDesc)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.img)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.vaccinations)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.breed)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.categoryID)
+                </td>
+                <td>
+                    <a asp-action="Update" asp-route-id="@item.Id">Редактирование</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id">Удаление</a>
+                </td>
+            </tr>
+            }
+        </tbody>
+    </table>
+</body>
+</html>

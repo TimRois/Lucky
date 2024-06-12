@@ -1,0 +1,66 @@
+﻿@model Lucky.Date.Models.Order
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link href="~/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+    <link href="~/css/style.css" rel="stylesheet" type="text/css">
+    <title>Редактирование обращения</title>
+</head>
+<body>
+
+
+    <div class="block">
+        <div class="block2">
+
+
+            <h4 id="ppp">Обращение</h4>
+            <hr />
+            <div class="row">
+                <div class="col-md-4">
+                    <form asp-action="Update" asp-route-id="@Model">
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                        <input type="hidden" asp-for="id" />
+                        <div class="form-group">
+                            <label> Дата обращения</label>
+                            <input asp-for="dateOrd" class="form-control" />
+                            <span asp-validation-for="dateOrd" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label> Почта</label>
+                            <input asp-for="email" class="form-control" />
+                            <span asp-validation-for="email" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label> Id питомца</label>
+                            <input asp-for="petID" class="form-control" />
+                            <span asp-validation-for="petID" class="text-danger"></span>
+                        </div>
+
+
+                        <div id="but1">
+                            <a id="link1" asp-controller="CRUD_ORDER" asp-action="Read">Назад</a>
+                            <input type="submit" value="Сохранить" asp-action="Update" asp-route-id="@Model" class="btn btn-primary" />
+
+                        </div>
+
+                    </form>
+                </div>
+            </div>
+
+
+
+        </div>
+        </div>
+
+
+  
+
+</body>
+</html>

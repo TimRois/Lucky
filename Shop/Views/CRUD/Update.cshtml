@@ -1,0 +1,75 @@
+﻿@model Lucky.Date.Models.Pet
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link href="~/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+    <link href="~/css/style.css" rel="stylesheet" type="text/css">
+    <title>Редактирование питомца</title>
+</head>
+<body>
+    <div class="block">
+
+
+        <div class="block2">
+            <h4 id="ppp">Питомец</h4>
+            <hr />
+            <div class="row">
+                <div class="col-md-4">
+                    <form asp-action="Update" asp-route-id="@Model">
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                        <input type="hidden" asp-for="Id" />
+                        <div class="form-group">
+                            <label>Имя питомца</label>
+                            <input asp-for="name" class="form-control" />
+                            <span asp-validation-for="name" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label>Короткое описание</label>
+                            <input asp-for="shortDesc" class="form-control" />
+                            <span asp-validation-for="shortDesc" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label>Путь к картинке</label>
+                            <input asp-for="img" class="form-control" />
+                            <span asp-validation-for="img" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label>Вакцины</label>
+                            <input asp-for="vaccinations" class="form-control" />
+                            <span asp-validation-for="vaccinations" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label>Порода</label>
+                            <input asp-for="breed" class="form-control" />
+                            <span asp-validation-for="breed" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label>Категория питомца</label>
+                            <input asp-for="categoryID" class="form-control" min="1" max="2" />
+                            <span asp-validation-for="categoryID" class="text-danger"></span>
+                        </div>
+
+                        <div id="but1">
+                            <a id="link1" asp-controller="CRUD" asp-action="Read">Назад</a>
+                            <input type="submit" value="Сохранить" asp-action="Update" asp-route-id="@Model" class="btn btn-primary" />
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+
+
+    </div>
+   
+    
+
+
+</body>
+</html>
